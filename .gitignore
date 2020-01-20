@@ -2,4 +2,5 @@
 website/**/build
 .node-version
 .DS_Store
+.idea
 website/i18n/en.json

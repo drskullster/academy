@@ -11,7 +11,7 @@
 const siteConfig = {
   title: "Precious Plastic Toolbox", // Title for your website.
   tagline: "A website for testing",
-  url: "https://onearmy.github.io", // Your website URL
+  url: "https://drskullster.github.io", // Your website URL
   baseUrl: "/academy/",
   onPageNav: 'separate',
   // remove /docs/ prefix
@@ -22,7 +22,7 @@ const siteConfig = {
 
   // Used for publishing and more
   projectName: "academy",
-  organizationName: "onearmy",
+  organizationName: "drskullster",
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
